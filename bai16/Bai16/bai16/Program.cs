@@ -41,7 +41,14 @@ namespace bai16
         }
         static void Main(string[] args)
         {
-            Choi();
+            while (true)
+            {
+                Choi();
+                Console.WriteLine("Chơi nữa không?(c/k):");
+                string s = Console.ReadLine();
+                if(s=="k")
+                    break;
+                }
             Console.ReadLine();
         }
     }
