@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Desktop\Hoc C Sharp\bai16\Bai16\bai16\bin\Debug\bai16.exe.config
+C:\Users\ADMIN\Desktop\Hoc C Sharp\bai16\Bai16\bai16\obj\Debug\bai16.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Hoc C Sharp\bai16\Bai16\bai16\bin\Debug\bai16.exe
+C:\Users\ADMIN\Desktop\Hoc C Sharp\bai16\Bai16\bai16\bin\Debug\bai16.pdb
+C:\Users\ADMIN\Desktop\Hoc C Sharp\bai16\Bai16\bai16\obj\Debug\bai16.exe
+C:\Users\ADMIN\Desktop\Hoc C Sharp\bai16\Bai16\bai16\obj\Debug\bai16.pdb
